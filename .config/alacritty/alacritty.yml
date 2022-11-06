@@ -1,0 +1,55 @@
+font:
+  normal:
+    family: "JetBrainsMono"
+    style: Regular
+
+  bold:
+    family: "JetBrainsMono"
+    style: Bold
+
+  italic:
+    family: "JetBrainsMono"
+    style: Italic
+
+  bold_italic:
+    family: "JetBrainsMono"
+    style: Bold Italic
+
+  size: 10
+
+scrolling:
+  history: 20000
+
+window:
+  decorations: "none"
+
+# working_directory: "/Users/kumar/code/finverse/"
+
+schemes:
+  hyper: &hyper
+    primary:
+      background: '0x282a36'
+      foreground: '0xeff0eb'
+    cursor:
+      text:   '0xF81CE5'
+      cursor: '0xffffff'
+    normal:
+      black:   '0x000000'
+      red:     '0xfe0100'
+      green:   '0x33ff00'
+      yellow:  '0xfeff00'
+      blue:    '0x0066ff'
+      magenta: '0xcc00ff'
+      cyan:    '0x00ffff'
+      white:   '0xd0d0d0'
+    bright:
+      black:   '0x808080'
+      red:     '0xfe0100'
+      green:   '0x33ff00'
+      yellow:  '0xfeff00'
+      blue:    '0x0066ff'
+      magenta: '0xcc00ff'
+      cyan:    '0x00ffff'
+      white:   '0xFFFFFF'
+
+colors: *hyper
