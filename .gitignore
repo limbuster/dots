@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!.config/
+!.config/*
+# !.config/**/*
+# !.config/alacritty/*
+# !.config/lvim/*
+# !.config/lvim/*/*
+!.config/nvim/**/*
+# !.config/nvim/lua/user/*
+# !.config/nvim/lua/user/settings/lsp/*
+# !.config/tmux/*
+!.zshrc
