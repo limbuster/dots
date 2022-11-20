@@ -15,7 +15,7 @@ font:
     family: "JetBrainsMono"
     style: Bold Italic
 
-  size: 10
+  size: 8
 
 scrolling:
   history: 20000
